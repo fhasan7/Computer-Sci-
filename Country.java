@@ -2,8 +2,7 @@
  * Class that represents a country with instance variables name, population,
  * area, and continent
  * 
- * @author Fatima Hasan uwo id: fhasan7 CS1027 * uwo fhasan7 studentnumber
- *         250895618
+ * @author Fatima Hasan 
  */
 public class Country {
 	private String name;
