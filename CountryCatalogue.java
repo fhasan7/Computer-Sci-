@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * 
- * @author FatimaH uwo fhasan7 studentnumber 250895618
+ * @author FatimaH 
  *
  */
 public class CountryCatalogue {
